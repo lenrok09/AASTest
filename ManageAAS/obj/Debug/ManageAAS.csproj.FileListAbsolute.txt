@@ -1,0 +1,13 @@
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\bin\Debug\ManageAAS.exe.config
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\bin\Debug\ManageAAS.exe
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\bin\Debug\ManageAAS.pdb
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\bin\Debug\Microsoft.AnalysisServices.Core.DLL
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\bin\Debug\Microsoft.AnalysisServices.Tabular.DLL
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\bin\Debug\Microsoft.AnalysisServices.Tabular.Json.dll
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\bin\Debug\Microsoft.AnalysisServices.Core.xml
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\bin\Debug\Microsoft.AnalysisServices.Tabular.xml
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\obj\Debug\ManageAAS.csprojAssemblyReference.cache
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\obj\Debug\ManageAAS.csproj.CoreCompileInputs.cache
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\obj\Debug\ManageAAS.csproj.CopyComplete
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\obj\Debug\ManageAAS.exe
+C:\Users\lenro\source\repos\ManageAAS\ManageAAS\obj\Debug\ManageAAS.pdb
